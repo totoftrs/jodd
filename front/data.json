@@ -1,0 +1,141 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "img": "/pays/img1.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 2,
+      "img": "",
+      "video": "/pays/video_3.mp4",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 3,
+      "img": "/pays/img3.jpeg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 4,
+      "img": "./pays/img4.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 5,
+      "img": "/pays/img5.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 6,
+      "img": "/pays/img6.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 7,
+      "img": "/pays/img7.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 8,
+      "img": "/pays/img8.jpeg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 9,
+      "img": "/pays/img9.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 10,
+      "img": "/pays/img10.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 11,
+      "img": "/pays/img11.jpg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 12,
+      "img": "",
+      "video": "/pays/video_1.mp4",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 13,
+      "img": "",
+      "video": "/pays/video_2.mp4",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+    {
+      "id": 14,
+      "img": "/pays/img2.jpeg",
+      "video": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "title": "test1",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "commune": "FDF"
+    },
+    {
+      "id": 2,
+      "title": "test2",
+      "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+      "commune": "Lamentin"
+    },
+    {
+      "id": 3,
+      "title": "test3",
+      "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "commune": "Diamant"
+    },{
+      "id": 4,
+      "title": "test4",
+      "text": " It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition.",
+      "commune": "Ducos"
+    }
+  ]
+}

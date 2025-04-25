@@ -1,0 +1,42 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    padding-bottom: 80px;
+
+  .container_img {
+    position: relative;
+    width: 100%;
+    height: initial;
+  }
+
+  .container_video {
+    position: relative;
+    height: 90vh;
+    width: 100%;
+
+    video {
+      object-fit: cover;
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  .position {
+    position: relative;
+    color: #ffffff;
+    padding: 10px;
+
+    span {
+      img {
+        width: 40px;
+      }
+    }
+  }
+
+  .text {
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2rem;
+  }
+}
